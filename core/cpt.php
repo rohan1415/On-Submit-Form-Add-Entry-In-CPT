@@ -116,7 +116,7 @@ function cars_make_taxonomy() {
 
 add_action( 'init', 'cars_make_taxonomy', 0 );
 
-// Register Model taxonomy
+// Register Model taxonomy //
 
 function cars_model_taxonomy() {
 
